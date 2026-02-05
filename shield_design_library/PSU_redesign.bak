@@ -2568,7 +2568,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LEXIR10801D00B00"
+		(property "Footprint" "footprints2:LEXIR10801D00B00"
 			(at 18.542 -20.32 0)
 			(effects
 				(font
@@ -17768,13 +17768,12 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_Omron_B3FS-100xP"
+		(property "Footprint" "footprints2:SW_SPST_Omron_B3FS-100xP"
 			(at 0 5.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf"

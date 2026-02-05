@@ -1025,15 +1025,15 @@
 		(uuid "fe2f1706-2c88-40b1-aafe-cca0a2756ea7")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/shield_design_library/3D/LEXI-R10801D-00B-00.stp"
+	(model "${KIPRJMOD}/shield_design_library/3D/LexiWithLabelTrasna.step"
 		(offset
-			(xyz 0 0 0)
+			(xyz 8.4 -11.9 -6.68)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -90 -0 -180)
 		)
 	)
 )

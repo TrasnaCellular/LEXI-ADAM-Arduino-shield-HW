@@ -2568,7 +2568,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LEXIR10801D00B00"
+		(property "Footprint" "footprints2:LEXIR10801D00B00"
 			(at 18.542 -20.32 0)
 			(effects
 				(font
