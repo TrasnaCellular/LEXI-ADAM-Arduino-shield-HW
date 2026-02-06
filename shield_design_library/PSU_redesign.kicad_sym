@@ -16478,7 +16478,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1.1 to 5.5 4-Bit (2+2) Fixed Direction Voltage-Level Translator, Push-Pull outputs"
 			(at 0 0 0)
 			(effects
 				(font
