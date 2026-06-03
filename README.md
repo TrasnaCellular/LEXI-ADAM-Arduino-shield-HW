@@ -12,3 +12,4 @@ The shield also features two breadboarding areas for experimenting with own circ
 
 All the hardware design source files, including Schematic, PCB board, gerbers, stack-up, can be downloaded from the present repository. Also the firmware examples running on Arduino UNO R4 WIFI and on Arduino UNO Q can be found here.
 
+The user guide explaining the board can be downloaded from: [LEXI-ADAM_Arduino_UNO_Shield_UserGuide](https://drive.google.com/file/d/1tEk1xlIRyrKd_FjjbZdSfsDOfKxhqTxc/view).
